@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "fast-apply": "0.0.3",
-    "qs": "5.2.0"
+    "qs": "6.0.4"
   },
   "devDependencies": {
     "babel": "6.5.2",
